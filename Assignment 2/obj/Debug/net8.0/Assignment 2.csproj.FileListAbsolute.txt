@@ -1,0 +1,16 @@
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\bin\Debug\net8.0\Assignment 2.deps.json
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\bin\Debug\net8.0\Assignment 2.dll
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\bin\Debug\net8.0\Assignment 2.pdb
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\bin\Debug\net8.0\Assignment 1.dll
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\bin\Debug\net8.0\Assignment 1.pdb
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\obj\Debug\net8.0\Assignment 2.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\obj\Debug\net8.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\obj\Debug\net8.0\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\obj\Debug\net8.0\Assignment 2.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\obj\Debug\net8.0\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\obj\Debug\net8.0\Assignment 2.sourcelink.json
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\obj\Debug\net8.0\Assignme.B8B9BD87.Up2Date
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\obj\Debug\net8.0\Assignment 2.dll
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\obj\Debug\net8.0\refint\Assignment 2.dll
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\obj\Debug\net8.0\Assignment 2.pdb
+C:\Users\Gabriel\source\repos\Zealand\3-semester\Assignments\Compulsory assignment 1\Assignment 1 and 2\Assignment 2\obj\Debug\net8.0\ref\Assignment 2.dll
